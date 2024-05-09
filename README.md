@@ -1,4 +1,4 @@
-1) # Chocolate_baseline-final.ipynb. 
+# 1) Chocolate_baseline-final.ipynb. 
 Соревнование "https://www.kaggle.com/competitions/practical-ml-chocolate/overview"
 В датасете содержится информация о более чем 1700 шоколадках. В датасете представлена информация о темном шоколаде.
 
